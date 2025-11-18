@@ -1,0 +1,4 @@
+---
+paw_ansible_role_exim::exim_dc_eximconfig_configtype: internet
+paw_ansible_role_exim::exim_dc_localdelivery: mail_spool
+paw_ansible_role_exim::exim_primary_hostname: ''
