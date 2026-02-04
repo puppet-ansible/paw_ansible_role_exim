@@ -8,7 +8,7 @@ Exim installation for Linux.
 
 ## Conversion Details
 
-- **Converted on**: 2025-11-18
+- **Converted on**: 2026-02-04
 - **Original Author**: geerlingguy
 - **License**: license (BSD, MIT)
 
